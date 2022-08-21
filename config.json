@@ -1,5 +1,5 @@
 {
-    "token": "OTk2NDQ2MDYxOTA2MzcwNzAx.GpYVBW.VlsLsvj6suA0UzdFrFbGIX3udH5B041nyKEfoY",
-    "youtube-api": "AIzaSyAr2sgTCagL2yFFRxlnWX-PyyD8F-AFbz4",
+    "token": "yourtoken",
+    "youtube-api": "your api token",
     "prefix" : "k"
 }
